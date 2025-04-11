@@ -114,5 +114,5 @@ Sigue estos pasos para ejecutar el conversor en tu máquina local:
 
 Desarrollado por **[Daniel Núñez Rojas]**
 
-* **GitHub:** [Enlace a tu perfil de GitHub](https://github.com/delnr91)
-* **LinkedIn:** [Enlace a tu perfil de LinkedIn](www.linkedin.com/in/daniel-nuñez-rojas-069573311)
+* **GitHub:** [GitHub](https://github.com/delnr91)
+* **LinkedIn:** [LinkedIn](www.linkedin.com/in/daniel-nuñez-rojas-069573311)
