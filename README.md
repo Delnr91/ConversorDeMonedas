@@ -75,7 +75,7 @@ Sigue estos pasos para ejecutar el conversor en tu máquina local:
     Si el código está en GitHub, clónalo:
     ```bash
     git clone [https://github.com/Delnr91/ConversorDeMonedas.git](https://github.com/Delnr91/ConversorDeMonedas.git)
-    cd conversor-monedas
+    cd ConversorDeMonedas
     ```
 
 2.  **Requisito Previo:**
