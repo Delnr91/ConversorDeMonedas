@@ -1,4 +1,4 @@
-# Conversor de Monedas - Desafío Alura Latam ONE G6
+# Conversor de Monedas - Desafío Alura Latam ONE G8
 
 Aplicación de consola en Java que permite convertir valores entre diferentes divisas (ARS, BRL, COP y USD) utilizando tasas de cambio obtenidas en tiempo real desde la API externa [ExchangeRate-API](https://www.exchangerate-api.com/).
 
