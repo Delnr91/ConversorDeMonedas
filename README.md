@@ -19,13 +19,13 @@ Aplicación de consola en Java que permite convertir valores entre diferentes di
 
 Aquí puedes ver cómo funciona la aplicación en la consola:
 
-*(¡Reemplaza esto con tus propias capturas o GIF!)*
-
 **Ejemplo de Menú:**
-![Menú Principal del Conversor](img/menu.png)
 
+![Menú Principal del Conversor](img/menu.PNG)
+------------------------------------------------------
 **Ejemplo de Interacción y Resultado:**
-![Ejemplo de Conversión USD a ARS](img/funcion.png)
+
+![Ejemplo de Conversión USD a ARS](img/funcion.PNG)
 
 
 ## 🛠️ Tecnologías Utilizadas
